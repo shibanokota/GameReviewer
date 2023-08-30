@@ -1,0 +1,13 @@
+2023-08-29 18:39:05.088 [info] Extension host with pid 2720 started
+2023-08-29 18:39:05.137 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-08-29 18:39:05.152 [info] Lock '/home/shiba/.vscode-server/data/User/workspaceStorage/1b0eae37df7afb2e9787eaea1bcc0c8e/vscode.lock': Lock acquired.
+2023-08-29 18:39:05.266 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-08-29 18:39:05.541 [info] Eager extensions activated
+2023-08-29 18:39:05.542 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-08-29 18:39:05.543 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-08-29 18:39:06.632 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2023-08-29 18:39:31.961 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-08-29 18:47:04.357 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2023-08-29 18:57:50.075 [info] Extension host terminating: received terminate message from renderer
+2023-08-29 18:57:50.076 [info] Lock '/home/shiba/.vscode-server/data/User/workspaceStorage/1b0eae37df7afb2e9787eaea1bcc0c8e/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-08-29 18:57:50.102 [info] Extension host with pid 2720 exiting with code 0

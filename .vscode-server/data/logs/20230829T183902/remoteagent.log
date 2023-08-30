@@ -1,0 +1,66 @@
+2023-08-29 18:39:02.194 [info] 
+
+
+
+
+2023-08-29 18:39:02.194 [info] Extension host agent started.
+2023-08-29 18:39:02.212 [info] Started initializing default profile extensions in extensions installation folder. file:///home/shiba/.vscode-server/extensions
+2023-08-29 18:39:02.227 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/shiba/.vscode-server/extensions
+2023-08-29 18:39:02.387 [info] [127.0.0.1][2af56526][ManagementConnection] New connection established.
+2023-08-29 18:39:02.434 [info] Installing extensions...
+2023-08-29 18:39:02.728 [info] [127.0.0.1][fde977d7][ExtensionHostConnection] New connection established.
+2023-08-29 18:39:02.799 [info] [127.0.0.1][fde977d7][ExtensionHostConnection] <2720> Launched Extension Host Process.
+2023-08-29 18:39:03.155 [info] Installing extension 'ms-ceintl.vscode-language-pack-ja'...
+2023-08-29 18:39:03.573 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ja
+2023-08-29 18:39:03.615 [info] Installing extension: ms-ceintl.vscode-language-pack-ja
+2023-08-29 18:39:04.190 [warning] Extension signature verification failed with error 'ENOENT': ms-ceintl.vscode-language-pack-ja
+2023-08-29 18:39:04.377 [info] Extracted extension to file:///home/shiba/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ja-1.81.2023081609: ms-ceintl.vscode-language-pack-ja
+2023-08-29 18:39:04.383 [info] Renamed to /home/shiba/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ja-1.81.2023081609
+2023-08-29 18:39:04.386 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-ja
+2023-08-29 18:39:04.392 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ja
+2023-08-29 18:39:04.447 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ja
+2023-08-29 18:39:04.448 [info] Extension 'ms-ceintl.vscode-language-pack-ja' v1.81.2023081609 was successfully installed.
+2023-08-29 18:57:50.075 [info] [127.0.0.1][2af56526][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-08-29 18:57:50.076 [error] Error: Throttler is disposed
+    at r.queue (/home/shiba/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /home/shiba/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /home/shiba/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-29 18:57:50.079 [error] Error: Throttler is disposed
+    at r.queue (/home/shiba/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /home/shiba/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /home/shiba/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-29 18:57:50.079 [error] Error: Throttler is disposed
+    at r.queue (/home/shiba/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /home/shiba/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /home/shiba/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-29 18:57:50.079 [error] Error: Throttler is disposed
+    at r.queue (/home/shiba/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /home/shiba/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /home/shiba/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-29 18:57:50.079 [error] Error: Throttler is disposed
+    at r.queue (/home/shiba/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /home/shiba/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /home/shiba/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-29 18:57:50.079 [error] Error: Throttler is disposed
+    at r.queue (/home/shiba/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /home/shiba/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /home/shiba/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-29 18:57:50.117 [info] [127.0.0.1][fde977d7][ExtensionHostConnection] <2720> Extension Host Process exited with code: 0, signal: null.
